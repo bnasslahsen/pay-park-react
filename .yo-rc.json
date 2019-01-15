@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "PayParkReact",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "YWY1MTY5NjA5NDFlNTg1MDQ2NWNhMGIzZGNhNDlkZWM5ODc1YjUzMWQ2ZWFkZGQzYmUxNjhmNTE2ZTljZDEyZDI5NzhkZWY5ODVjNDU4NmQ5YjBjOWI1MTdjMmY2NGU3ZDFmN2U4Y2ExMGVkOWViNTI3MzgxZTI4YWY5YzUxOWQ=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "bnasslahsen",
+  "repository-name": "pay-park-react"
+}
